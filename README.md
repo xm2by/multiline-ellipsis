@@ -1,5 +1,9 @@
 # multiline-ellipsis
 
+### 多行省略指令效果
+
+![多行省略指令效果图](https://github.com/xm2by/multiline-ellipsis/blob/master/src/assets/example.gif)
+
 ### Demo运行
 
 本项目为vue多行省略指令的demo，如果想看demo运行效果，可将项目clone下来，依次执行：
