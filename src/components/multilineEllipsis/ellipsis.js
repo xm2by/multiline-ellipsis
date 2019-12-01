@@ -45,7 +45,4 @@ export default {
   inserted(el, binding, vnode) {
     setEllipsis(el, binding, vnode);
   },
-  componentUpdated(el, binding, vnode) {
-    setEllipsis(el, binding, vnode);
-  },
 };
